@@ -22,7 +22,7 @@ The project can be divided into three primary phases:
  - The final dataset is made queryable and analyzable using Amazon Athena, enabling users to obtain desired information from the data.
 
 ## Architecture:
-![Architecture diagram](https://github.com/username/repository/raw/main/images/logo.png)
+![Architecture diagram](https://github.com/abakash08/spotify-end-to-end-etl-project/blob/main/Architecture.jpg)
 
 ## Here's a list of the AWS services used in this project🔎:
 
